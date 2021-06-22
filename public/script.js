@@ -1,3 +1,5 @@
+alert('Click on the page 4...MUSIC :)')
+
 let src = "sorry.gif"
 var width, height, container, canvas, ctx, points, target, animateHeader = true;
 
