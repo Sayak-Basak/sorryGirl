@@ -1,4 +1,4 @@
-alert('Click on the page 4...MUSIC :)')
+alert('Click on the page 4 MUSIC, If not Playing :)')
 
 let src = "sorry.gif"
 var width, height, container, canvas, ctx, points, target, animateHeader = true;
