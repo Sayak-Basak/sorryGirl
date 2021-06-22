@@ -202,12 +202,12 @@ init();
                 <div class="home_container">
                     <h2>Hello, There :|</h2>
                     <p>
-                        I'm not good with my Words, so I made this code...4U <br/>
+                        I'm not good with my Words, so I made this code... <br/>
                         I really <span class="green">sorry</span> about my behaviour 'cause I'm
                         <span class="green">baka</span>.... <br/>
                         I care about U <span class="green">girl</span>, that's I made this <br/>
                         Vlada is a good person, but just us is not the same without U, <br/>
-                        We need U girl, I'm fear to loose U, UR so funny <br/>
+                        We need U girl, I'm fear to loose U forever, UR so funny <br/>
                         Anyway, that's was my fault <br/>
                         I'll hope 4 UR answer :)
                     </p>
