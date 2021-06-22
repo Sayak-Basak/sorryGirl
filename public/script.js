@@ -206,10 +206,10 @@ init();
                         I really <span class="green">sorry</span> about my behaviour 'cause I'm
                         <span class="green">baka</span>.... <br/>
                         I care about U <span class="green">girl</span>, that's I made this <br/>
-                        Vlada is a good person, but just us is not the same without, <br/>
-                        We need U <span class="green">girl</span>...<br/>
-                        Anyway, that's was my fault, <br/>
-                        and I'll hope 4 answer :)
+                        Vlada is a good person, but just us is not the same without U, <br/>
+                        We need U girl, I'm fear to loose U, UR funny <br/>
+                        Anyway, that's was my fault <br/>
+                        I'll hope 4 UR answer :)
                     </p>
                     <div class="close_home" href="">x</div>
                 </div>
