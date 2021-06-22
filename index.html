@@ -74,5 +74,9 @@
         let audio = document.getElementById('ost')
         audio.volumen = .8
         audio.playbackRate = 1.05
+
+        document.addEventListener('click', async e => {
+            await audio.play()
+        })
     </script>
 </body>
