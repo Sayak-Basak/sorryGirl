@@ -208,7 +208,7 @@ init();
                         I care about U <span class="green">girl</span>, that's I made this <br/>
                         Vlada is a good person, but just us is not the same without U, <br/>
                         We need U girl, I'm fear to loose U forever, UR so funny <br/>
-                        Anyway, that's was my fault <br/>
+                        Anyway, that was my fault <br/>,
                         I'll hope 4 UR answer :)
                     </p>
                     <div class="close_home" href="">x</div>
