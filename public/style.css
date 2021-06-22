@@ -318,6 +318,10 @@ span.green {
     width: 145ch;
 }
 
+.js .search--open .terminal__line:nth-child(14) {
+    width: 145ch;
+}
+
 .js .search--open .terminal__line {
     animation: typing 1s steps(30, end), scaleUp 0.1s forwards;
 }
